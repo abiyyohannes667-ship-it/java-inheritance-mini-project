@@ -95,7 +95,7 @@ public class Main {
 
         m.info();
 
-        // method hiding
+        
         Person.type();
         Employee.type();
 
